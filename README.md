@@ -16,3 +16,9 @@ For the implementation, the techologies React, Spring Boot, MariaDB, and Docker 
 
 ## Project status
 Develop REST API with SpringBoot
+
+## HOW TO RUN
+After cloning the github, navigate to the directory then run in terminal:
+  docker-compose up --build
+After it runs, visit:
+    localhost:80
